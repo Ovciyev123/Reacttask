@@ -1,0 +1,7 @@
+h1{color: skyblue;}
+
+h2{color:red}
+
+body{display: flex;
+justify-content: center;
+align-items: center;}
