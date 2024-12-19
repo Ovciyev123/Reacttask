@@ -6,6 +6,7 @@ import Counter from './components/counter'
 import Text from './components/Text'
 import Labeltext from './components/Labeltext'
 import Textsize from './components/Textsize'
+import Request from './components/request'
 import './App.css'
 
 function App() {
@@ -17,9 +18,10 @@ function App() {
      <Products/>
      <br /><br />
      <Text/>  */}
-     <Labeltext/>
-     <br /><br /><br /><br />
-     <Textsize/>
+     {/* <Labeltext/>
+     <Textsize/> */}
+     <Request/>
+
     </>
   )
 }
